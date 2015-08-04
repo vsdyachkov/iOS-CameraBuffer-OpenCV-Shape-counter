@@ -1,4 +1,4 @@
-//
+
 //  main.m
 //  CameraBuffer
 //
@@ -7,7 +7,7 @@
 //
 
 #import <UIKit/UIKit.h>
-#import "AppDelegate.h"
+#import "AppDelegate.hpp"
 
 int main(int argc, char * argv[]) {
     @autoreleasepool {
